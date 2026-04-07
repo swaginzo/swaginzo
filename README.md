@@ -1,7 +1,7 @@
 # 👋 Merhaba, ben Doğukan
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Developer;Open+Source+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 <p align="center">
@@ -70,7 +70,6 @@
   <a href="https://github.com/swaginzo">
     <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://open.spotify.com/user/31jqirhyc43e5xisaipzjlozzvfa">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
 </p>
