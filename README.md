@@ -62,8 +62,6 @@
   <a href="https://github.com/swaginzo">
     <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
-  </a>
 </p>
 
 ---
