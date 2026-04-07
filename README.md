@@ -1,7 +1,7 @@
 # 👋 Merhaba, ben Doğukan
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Developer;Open+Source+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Swaginzo;Open+Source+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 <p align="center">
@@ -47,16 +47,8 @@
 ## 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swaginzo&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaginzo&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/swaginzo/swaginzo/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=swaginzo&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=swaginzo&layout=compact&theme=tokyonight" />
 </p>
 
 ---
