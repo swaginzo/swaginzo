@@ -13,8 +13,7 @@
 ## 🚀 Hakkımda
 
 * 💻 Full Stack Developer
-* 🔥 Temiz ve okunabilir kod yazmayı severim
-* 📚 Sürekli yeni teknolojiler öğreniyorum
+* 📚 Sürekli yeni projeler üretiyorum
 * 🌍 Açık kaynak projelere katkı sağlıyorum
 
 ---
